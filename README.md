@@ -23,10 +23,11 @@ Hub de tout les projets, gestion de projet etc.
 Chaque projet a son repository.  
 Chaque repository a son template.  
 - Python  
-  [lien a mettre]()  
+  [templateInterne](https://github.com/RaspBerry-MeeSHS/ProjectBundle_Doc/tree/main/Python/packageType)  
   [Doc Officielle](https://docs.python.org/fr/3.9/library/intro.html)  
   [PyPI](https://pypi.org/)  
-  [Bonne Pratiques](https://python-guide-fr.readthedocs.io/fr/latest/writing/documentation.html)  
+  [Bonne Pratiques 1](https://python-guide-fr.readthedocs.io/fr/latest/writing/documentation.html)  
+  [Bonne Pratiques 2](https://12factor.net/fr/)
   * Package  
     [Doc PyPA](https://packaging.python.org/tutorials/packaging-projects/)  
     [Doc setuptools](https://setuptools.readthedocs.io/en/latest/userguide/index.html)  
