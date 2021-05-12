@@ -40,3 +40,15 @@ Chaque repository a son template.
 
 Les README sont ecrit en [MarkDown]( https://www.markdownguide.org/basic-syntax/ )
 
+## HardWare
+
+
+
+## Installation 
+
+- Raspberry Pi OS 64bit  
+  [Doc Off](https://www.raspberrypi.org/documentation/setup/)  
+  [Tuto](https://www.pofilo.fr/post/20201129-raspberry-pi-4-64bits/)
+  - 
+- Configuration
+  [Doc Off](https://www.raspberrypi.org/documentation/configuration/)
