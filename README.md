@@ -3,17 +3,17 @@ Hub de tout les projets, gestion de projet etc.
 
 ## Listes de projets a faire
 
-- VPN
-- Serveur DNS
+- VPN [Wireguard](https://www.wireguard.com/install/)
+- Serveur DNS/DHCP [Pi-hole](https://pi-hole.net/)
 - PareFeu / bloqueur de pub
 - Gestionnaire d'agenda
 - Gestionnaire de marque page
 - Interface RSS -> mail
 - Gestionnaire de mots de passe
-- Gestionnaire de fichier
+- Gestionnaire de fichier 
   * versionning logiciel + doc + fichier de config
   * Git
-  * Nas (media)
+  * Nas (media) [openmediavault](https://www.openmediavault.org/)
   * Zotero / cours
 - Post-It
 - Impression PDF
