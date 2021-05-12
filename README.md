@@ -42,6 +42,7 @@ Les README sont ecrit en [MarkDown]( https://www.markdownguide.org/basic-syntax/
 
 ## HardWare
 
+[Raspberry Pi 4 model-B 8Go](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)
 
 
 ## Installation 
@@ -49,6 +50,24 @@ Les README sont ecrit en [MarkDown]( https://www.markdownguide.org/basic-syntax/
 - Raspberry Pi OS 64bit  
   [Doc Off](https://www.raspberrypi.org/documentation/setup/)  
   [Tuto](https://www.pofilo.fr/post/20201129-raspberry-pi-4-64bits/)
-  - 
-- Configuration
-  [Doc Off](https://www.raspberrypi.org/documentation/configuration/)
+  
+- Configuration  
+  [Doc Off](https://www.raspberrypi.org/documentation/configuration/)  
+  [Doc Off remote](https://www.raspberrypi.org/documentation/remote-access/)  
+  [Doc Off VNC](https://www.raspberrypi.org/documentation/remote-access/vnc/README.md)
+  
+***********
+  
+## Divers
+
+- GPIO  
+  [gpiozero](https://gpiozero.readthedocs.io/en/stable/)
+- Screen  
+  [display](https://www.raspberrypi.org/documentation/hardware/display/README.md)
+  
+***********
+
+## Pour dans longtemps
+
+- [Support SATA pour RAID](https://wiki.radxa.com/Dual_Quad_SATA_HAT)  
+- [achat](https://shop.allnetchina.cn/collections/sata-hat)
