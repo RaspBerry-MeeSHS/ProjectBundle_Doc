@@ -3,7 +3,11 @@ Hub de tout les projets, gestion de projet etc.
 
 ## Listes de projets a faire
 
-- VPN [Wireguard](https://www.wireguard.com/install/)
+- VPN  
+   [Officiel](https://www.wireguard.com/install/)
+   [Tuto 1](https://github.com/pirate/wireguard-docs)  
+   [Tuto 2](https://emanuelduss.ch/2018/09/wireguard-vpn-road-warrior-setup/)  
+   - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) 
 - Serveur DNS/DHCP [Pi-hole](https://pi-hole.net/)
 - PareFeu / bloqueur de pub
 - Gestionnaire d'agenda
