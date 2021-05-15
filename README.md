@@ -23,6 +23,7 @@ Hub de tout les projets, gestion de projet etc.
   * Zotero / cours
 - Post-It
 - Impression PDF
+- Assistant Vocal (https://openjarvis.com/)
 
 ## Bonne pratique pour les repository
 
