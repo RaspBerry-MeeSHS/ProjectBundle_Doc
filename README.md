@@ -10,7 +10,8 @@ Hub de tout les projets, gestion de projet etc.
      [Tuto 2](https://emanuelduss.ch/2018/09/wireguard-vpn-road-warrior-setup/)  
      - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) 
    - Serveur DNS/DHCP / PareFeu / bloqueur de pub[Pi-hole](https://pi-hole.net/)
-   - hotspot Wifi [raspap](https://raspap.com/)
+   - hotspot Wifi [raspap](https://raspap.com/)  
+     [Tuto](https://raspberry-pi.fr/creer-un-hotspot-wi-fi-en-moins-de-10-minutes-avec-la-raspberry-pi/#:~:text=Une%20fois%20que%20vous%20avez,comme%20expliqué%20sur%20ce%20tutoriel.)
 - Gestionnaire d'agenda
 - Gestionnaire de marque page
 - Interface RSS -> mail
