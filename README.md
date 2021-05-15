@@ -3,13 +3,14 @@ Hub de tout les projets, gestion de projet etc.
 
 ## Listes de projets a faire
 
-- VPN  
-   [Officiel](https://www.wireguard.com/install/)  
-   [Tuto 1](https://github.com/pirate/wireguard-docs)  
-   [Tuto 2](https://emanuelduss.ch/2018/09/wireguard-vpn-road-warrior-setup/)  
-   - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) 
-- Serveur DNS/DHCP [Pi-hole](https://pi-hole.net/)
-- PareFeu / bloqueur de pub
+- Reseau
+   - VPN  
+     [Officiel](https://www.wireguard.com/install/)  
+     [Tuto 1](https://github.com/pirate/wireguard-docs)  
+     [Tuto 2](https://emanuelduss.ch/2018/09/wireguard-vpn-road-warrior-setup/)  
+     - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) 
+   - Serveur DNS/DHCP / PareFeu / bloqueur de pub[Pi-hole](https://pi-hole.net/)
+   - hotspot Wifi [raspap](https://raspap.com/)
 - Gestionnaire d'agenda
 - Gestionnaire de marque page
 - Interface RSS -> mail
