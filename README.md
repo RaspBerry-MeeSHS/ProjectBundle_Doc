@@ -9,8 +9,11 @@ Hub de tout les projets, gestion de projet etc.
      [Tuto 1](https://github.com/pirate/wireguard-docs)  
      [Tuto 2](https://emanuelduss.ch/2018/09/wireguard-vpn-road-warrior-setup/)  
      - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) 
-   - Serveur DNS/DHCP / PareFeu / bloqueur de pub[Pi-hole](https://pi-hole.net/)
-   - hotspot Wifi [raspap](https://raspap.com/)  
+   - Serveur DNS/DHCP / PareFeu / bloqueur de pub  
+     [Pi-hole](https://pi-hole.net/)  
+     [FDN](https://www.fdn.fr/actions/dns/)
+   - hotspot Wifi  
+     [raspap](https://raspap.com/)  
      [Tuto](https://raspberry-pi.fr/creer-un-hotspot-wi-fi-en-moins-de-10-minutes-avec-la-raspberry-pi/#:~:text=Une%20fois%20que%20vous%20avez,comme%20expliqué%20sur%20ce%20tutoriel.)
 - Gestionnaire d'agenda
 - Gestionnaire de marque page
@@ -19,11 +22,13 @@ Hub de tout les projets, gestion de projet etc.
 - Gestionnaire de fichier 
   * versionning logiciel + doc + fichier de config
   * Git
-  * Nas (media) [openmediavault](https://www.openmediavault.org/)
+  * Nas (media)  
+    [openmediavault](https://www.openmediavault.org/)
   * Zotero / cours
 - Post-It
 - Impression PDF
-- Assistant Vocal (https://openjarvis.com/)
+- Assistant Vocal  
+  [openjarvis](https://openjarvis.com/)
 
 ## Bonne pratique pour les repository
 
@@ -63,6 +68,10 @@ Les README sont ecrit en [MarkDown]( https://www.markdownguide.org/basic-syntax/
   [Doc Off](https://www.raspberrypi.org/documentation/configuration/)  
   [Doc Off remote](https://www.raspberrypi.org/documentation/remote-access/)  
   [Doc Off VNC](https://www.raspberrypi.org/documentation/remote-access/vnc/README.md)
+  
+- Terminal  
+  [ZSH](https://ohmyz.sh/)  
+  [Tmux](https://github.com/tmux/tmux/wiki)
   
 ***********
   
