@@ -9,6 +9,7 @@ Hub de tout les projets, gestion de projet etc.
      [Tuto 1](https://github.com/pirate/wireguard-docs)  
      [Tuto 2](https://emanuelduss.ch/2018/09/wireguard-vpn-road-warrior-setup/)  
      - [wireguard-manager](https://github.com/complexorganizations/wireguard-manager) 
+     - [wireguard + pfsense](https://tutox.fr/2021/03/05/configurer-son-vpn-wireguard-sur-un-parefeu-pfsense-tuto/)
    - Serveur DNS/DHCP / PareFeu / bloqueur de pub  
      [Pi-hole](https://pi-hole.net/)  
      [FDN](https://www.fdn.fr/actions/dns/)
